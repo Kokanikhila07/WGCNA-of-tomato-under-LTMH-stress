@@ -51,7 +51,7 @@ Tomato_Pollen_LTMH_WGCNA/
 │   ├── expr_matrix_GSE185629.txt    # Expression matrix (Polarized stage)
 │   └── metadata.txt                 # Traits: Control vs LTMH
 ├── scripts/
-│   └── WGCNA GSE185629.R     # Your cleaned WGCNA script
+│   └── WGCNA GSE185629 Script.R     # Your cleaned WGCNA script
 ├── results/
 │   ├── Module_trait_heatmap.png     # Heatmap showing ME1/ME2 correlations
 │   ├── CytoscapeInput-edges-turquoise.txt
