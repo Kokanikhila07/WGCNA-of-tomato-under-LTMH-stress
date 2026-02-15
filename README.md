@@ -66,4 +66,4 @@ To replicate this analysis:
 
 1. Ensure `WGCNA` and `dplyr` packages are installed in R.
 2. Place the expression and metadata files in the `/data` directory.
-3. Run `scripts/WGCNA_GSE185629.R`.
+3. Run `scripts/WGCNA GSE185629 Script.R`.
