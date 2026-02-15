@@ -1,4 +1,4 @@
-# WGCNA-of-tomato-under-LTMH
+# WGCNA-of-tomato-under-LTMH-stress
 
 # WGCNA Analysis of Tomato Pollen Abortion under LTMH Stress (GSE185629)
 
