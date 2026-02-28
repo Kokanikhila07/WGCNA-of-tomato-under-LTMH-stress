@@ -1,0 +1,9 @@
+FileName	sample
+pol CT_1	Control
+pol CT_2	Control
+pol CT_3	Control
+pol CT_4	Control
+pol LTMH_1	LTMH
+pol LTMH_2	LTMH
+pol LTMH_3	LTMH
+pol LTMH_4	LTMH
